@@ -1,6 +1,6 @@
 # Desafio_Stored_Procedure
 
-## Esta stored procedure foi desenvolvida para fornecer uma visão completa do extrato bancário de um cliente. Ao receber como parâmetro o ID do cliente, a rotina retorna:
+ Esta stored procedure foi desenvolvida para fornecer uma visão completa do extrato bancário de um cliente. Ao receber como parâmetro o ID do cliente, a rotina retorna:
 
 * O saldo atual do cliente
 
@@ -16,4 +16,4 @@
     * 
     * Data da operação
 
-## O objetivo é tornar o acompanhamento financeiro mais simples e rápido, reunindo em uma única chamada as informações mais relevantes do histórico bancário do cliente.
+ O objetivo é tornar o acompanhamento financeiro mais simples e rápido, reunindo em uma única chamada as informações mais relevantes do histórico bancário do cliente.
