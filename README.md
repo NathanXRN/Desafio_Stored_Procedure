@@ -14,7 +14,7 @@
 
  O objetivo é tornar o acompanhamento financeiro mais simples e rápido, reunindo em uma única chamada as informações mais relevantes do histórico bancário do cliente.
 
-    * Código do Desafio:
+1. **Código do Desafio:**
 
     ```sql
     CREATE OR REPLACE PROCEDURE ver_extrato(
